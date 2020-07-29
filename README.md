@@ -9,7 +9,7 @@
       <p><b>地址：南京市新模范马路66号，综合科研楼，邮编210003 </b></p>
     </td>
     <td width="25%">
-      <img src="/zhouyong.png" width="100%">      % 插入证件照代码
+      <img src="/zhouyong.png" width="100%">      
     </td>
   </tr>
 </table>
